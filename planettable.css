@@ -1,0 +1,26 @@
+html{
+    border-collapse:collapse;
+    font-family: Tahoma, Geneva, sans-serif;
+}
+h1{
+    text-align: center;
+    color: SeaGreen
+}
+table{
+    border: 2px solid #66CDAA;
+    border-radius: 2px;
+    justify-content: space-between;
+}
+td{
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #66CDAA;
+}th{
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #66CDAA;
+}
+
+table thead th{
+    background-color:#3CB371 ;
+}
